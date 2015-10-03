@@ -1,0 +1,19 @@
+{
+  "name": "fin",
+  "version": "0.0.1",
+  "description": "A Sass utility for automatically placing comments at the end of declaration blocks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "fin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdews/fin.git"
+  },
+  "author": "Wes Dews <wesley.dews@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdews/fin/issues"
+  },
+  "homepage": "https://github.com/wdews/fin#readme"
+}
